@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 Hello my name is `Faris`
 
-I am an undergraduate informatics student at Universitas Pembangunan Nasional Veteran Jakarta.
+I am an undergraduate informatics student at **UPN Veteran Jakarta**.
